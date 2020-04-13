@@ -1,0 +1,6562 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Open Sans', serif;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+  overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
+}
+
+@font-face {
+  font-family: opensans_light;
+  src: url(assets/OpenSans-Light.ttf);
+}
+
+@font-face {
+  font-family: unisans_heavy;
+  src: url(assets/Uni%20Sans%20Heavy.otf);
+}
+
+@font-face {
+  font-family: montserrat_extralight;
+  src: url(assets/Montserrat-ExtraLight.otf);
+}
+
+@font-face {
+  font-family: montserrat_regular;
+  src: url(assets/Montserrat-Regular.otf);
+}
+
+@font-face {
+  font-family: unisanscaps_thin;
+  src: url(assets/Uni%20Sans%20Thin.otf);
+}
+
+.covidBangladesh {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: auto;
+  overflow-y: auto;
+  background-color: rgba(255, 255, 255, 1);
+  width: auto;
+  height: auto;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+.covidBangladesh .backgroundrect {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 1);
+  border-bottom-color: rgba(112, 112, 112, 1);
+  border-bottom-style: none;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(112, 112, 112, 1);
+  border-left-style: none;
+  border-left-width: 1.00px;
+  border-right-color: rgba(112, 112, 112, 1);
+  border-right-style: none;
+  border-right-width: 1.00px;
+  border-top-color: rgba(112, 112, 112, 1);
+  border-top-style: none;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .headercomponent {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: -181px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 362.00px;
+  height: 80.00px;
+  left: 50%;
+  top: 27.00px;
+}
+
+.covidBangladesh .headercomponent .covid19Bangladesh {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(112, 112, 112, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 38.00px;
+  font-weight: 300;
+  font-style: normal;
+  font-family: opensans_light, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 362.00px;
+  height: 52.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .headercomponent .covid19Bangladesh .covid19Bangladesh-0 {
+  color: rgba(112, 112, 112, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 38.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .headercomponent .covid19Bangladesh .covid19Bangladesh-9 {
+  color: rgba(112, 112, 112, 1);
+  font-weight: 300;
+  font-style: normal;
+  font-size: 38.00px;
+  font-family: opensans_light, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .headercomponent .sourceLink {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 355.00px;
+  height: 27.00px;
+  left: 0.00px;
+  bottom: 0.00px;
+  border: none;
+  outline: none;
+}
+
+.covidBangladesh .headercomponent .sourceLink .activateState {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .headercomponent .sourceLink .activateState .sourceHttpswwwiedcrgovbd {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 23.00px;
+  letter-spacing: 0.00px;
+  color: rgba(31, 110, 104, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 22.00px;
+  font-weight: 300;
+  font-style: normal;
+  font-family: montserrat_extralight, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 2.00px;
+  right: 0.00px;
+  bottom: -2.00px;
+}
+
+.covidBangladesh .headercomponent .sourceLink .hoverState {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .headercomponent .sourceLink .hoverState .sourceHttpswwwiedcrgovbd2a846db7 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 23.00px;
+  letter-spacing: 0.00px;
+  color: rgba(223, 223, 223, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 22.00px;
+  font-weight: 300;
+  font-style: normal;
+  font-family: montserrat_extralight, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 2.00px;
+  right: 0.00px;
+  bottom: -2.00px;
+}
+
+.covidBangladesh .headercomponent .sourceLink .defaultState {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .headercomponent .sourceLink .defaultState .sourceHttpswwwiedcrgovbd1c08a5de {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 23.00px;
+  letter-spacing: 0.00px;
+  color: rgba(129, 128, 128, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 22.00px;
+  font-weight: 300;
+  font-style: normal;
+  font-family: montserrat_extralight, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 2.00px;
+  right: 0.00px;
+  bottom: -2.00px;
+}
+
+.covidBangladesh .headercomponent .sourceLink:hover>.hoverState {
+  display: inherit;
+}
+
+.covidBangladesh .headercomponent .sourceLink:hover>.defaultState {
+  display: none;
+}
+
+.covidBangladesh .headercomponent .sourceLink:hover>.activateState {
+  display: none;
+}
+
+.covidBangladesh .headercomponent .sourceLink:active>.activateState {
+  display: inherit;
+}
+
+.covidBangladesh .headercomponent .sourceLink:active>.hoverState {
+  display: none;
+}
+
+.covidBangladesh .headercomponent .sourceLink:active>.defaultState {
+  display: none;
+}
+
+.covidBangladesh .body {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: -281.115966796875px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 562.23px;
+  height: 777.28px;
+  left: 50%;
+  top: 151.00px;
+}
+
+.covidBangladesh .body .informationcomponent {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 212.43px;
+  height: 133.71px;
+  left: 280.67px;
+  top: 18.79px;
+}
+
+.covidBangladesh .body .informationcomponent .totalinfectedcomponent {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 212.43px;
+  height: 133.71px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .informationcomponent .totalinfectedcomponent .infectedrect {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 1);
+  border-bottom-color: rgba(223, 223, 223, 1);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(223, 223, 223, 1);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(223, 223, 223, 1);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(223, 223, 223, 1);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 212.43px;
+  height: 109.09px;
+  left: 0.00px;
+  top: 24.62px;
+}
+
+.covidBangladesh .body .informationcomponent .totalinfectedcomponent .x100000 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(112, 112, 112, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 45.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 153.00px;
+  height: 53.00px;
+  left: 29.33px;
+  top: 52.21px;
+}
+
+.covidBangladesh .body .informationcomponent .totalinfectedcomponent .totalInfectedInBd {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  letter-spacing: 0.00px;
+  color: rgba(112, 112, 112, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 13.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 131.00px;
+  height: 15.00px;
+  left: 36.08px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .informationcomponent .totalinfectedcomponent .totalInfectedInBd .totalInfectedInBd-0 {
+  color: rgba(172, 172, 172, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 13.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .body .informationcomponent .totalinfectedcomponent .totalInfectedInBd .totalInfectedInBd-14 {
+  color: rgba(112, 112, 112, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 13.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .body .bangladeshcomponent {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.4000000059604645;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 218.10px;
+  height: 207.92px;
+  left: 6.95px;
+  top: 0.94px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path4167 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 59.57px;
+  height: 80.60px;
+  left: 77.65px;
+  top: 39.04px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path2169 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: round;
+  box-shadow: none;
+  width: 62.34px;
+  height: 86.53px;
+  left: 27.17px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path2192 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 75.31px;
+  height: 72.00px;
+  left: -2.00px;
+  top: 54.02px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path2175 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 87.35px;
+  height: 94.73px;
+  left: 97.56px;
+  top: 20.80px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path2174 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 114.67px;
+  height: 110.24px;
+  left: 35.51px;
+  top: 75.06px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path2176 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 78.09px;
+  height: 84.25px;
+  left: 100.34px;
+  top: 91.47px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path3151 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 55.40px;
+  height: 115.71px;
+  left: 164.70px;
+  top: 49.52px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path2177 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 75.77px;
+  height: 79.24px;
+  left: 131.83px;
+  top: 130.68px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rongpur .path3149 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 1.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 2.00px;
+  height: 2.00px;
+  left: 172.65px;
+  top: 128.03px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.5;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 217.17px;
+  height: 188.78px;
+  left: 0.00px;
+  top: 176.03px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path5240 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 96.61px;
+  height: 69.67px;
+  left: 116.54px;
+  top: 121.11px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path2180 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 64.20px;
+  height: 71.49px;
+  left: -2.00px;
+  top: 38.58px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path2184 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 99.39px;
+  height: 77.87px;
+  left: 110.06px;
+  top: 19.43px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path3179 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 64.20px;
+  height: 75.13px;
+  left: 97.56px;
+  top: 78.70px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path3168 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 81.79px;
+  height: 82.43px;
+  left: 33.19px;
+  top: 70.50px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path4248 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 73.46px;
+  height: 104.78px;
+  left: 145.72px;
+  top: 61.38px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path2179 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 95.68px;
+  height: 96.11px;
+  left: 41.07px;
+  top: 5.30px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .rajshahi06ec6340 .path3152 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 47.06px;
+  height: 60.55px;
+  left: 107.28px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.4000000059604645;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 169.38px;
+  height: 330.19px;
+  left: 65.75px;
+  top: 319.20px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path7082 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 85.04px;
+  height: 74.23px;
+  left: 14.67px;
+  top: 50.43px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path8053 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 51.23px;
+  height: 58.72px;
+  left: 80.89px;
+  top: 60.91px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path2204 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 86.68px;
+  height: 76.97px;
+  left: 34.58px;
+  top: 99.68px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path2205 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 52.16px;
+  height: 48.69px;
+  left: 98.95px;
+  top: 109.71px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path2206 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 58.64px;
+  height: 175.46px;
+  left: 39.21px;
+  top: 154.85px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path3186 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 66.98px;
+  height: 174.08px;
+  left: 79.27px;
+  top: 146.64px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path3188 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 82.72px;
+  height: 67.38px;
+  left: 12.82px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path5134 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 44.29px;
+  height: 53.13px;
+  left: -2.00px;
+  top: 23.08px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path6105 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 49.90px;
+  height: 65.59px;
+  left: 7.26px;
+  top: 41.74px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path7070 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 57.04px;
+  height: 169.72px;
+  left: 114.33px;
+  top: 152.74px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path4157 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 0.75px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 7.98px;
+  height: 12.90px;
+  left: 88.16px;
+  top: 308.84px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .khulnaf55180a5 .path1921 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 0.50px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 3.68px;
+  height: 4.85px;
+  left: 63.61px;
+  top: 325.84px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.4000000059604645;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 135.24px;
+  height: 167.06px;
+  left: 223.66px;
+  top: 460.98px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path2242 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 43.82px;
+  height: 97.94px;
+  left: -2.00px;
+  top: 22.63px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path3218 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 49.84px;
+  height: 60.09px;
+  left: 16.99px;
+  top: 35.40px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path4189 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 85.04px;
+  height: 82.44px;
+  left: 16.52px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path2245 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 65.56px;
+  height: 98.79px;
+  left: 2.27px;
+  top: 70.28px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path3216 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 57.05px;
+  height: 72.35px;
+  left: 38.94px;
+  top: 60.60px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path4187 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 24.96px;
+  height: 35.60px;
+  left: 49.42px;
+  top: 128.95px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path4190 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 11.86px;
+  height: 20.12px;
+  left: 72.99px;
+  top: 128.31px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path4192 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 13.17px;
+  height: 18.19px;
+  left: 72.34px;
+  top: 143.14px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path5169 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 45.91px;
+  height: 106.53px;
+  left: 78.89px;
+  top: 36.75px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path5171 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 11.20px;
+  height: 11.74px;
+  left: 86.09px;
+  top: 143.14px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path5173 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 14.48px;
+  height: 38.18px;
+  left: 122.76px;
+  top: 90.27px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .barisal .path5175 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 10.55px;
+  height: 9.16px;
+  left: 93.95px;
+  top: 137.98px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.4000000059604645;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 255.15px;
+  height: 469.95px;
+  left: 306.55px;
+  top: 307.33px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path4177 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 80.40px;
+  height: 84.26px;
+  left: 16.06px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path3208 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 0.50px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 12.14px;
+  height: 20.07px;
+  left: 10.27px;
+  top: 70.78px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path4179 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 84.55px;
+  height: 98.31px;
+  left: 12.36px;
+  top: 60.62px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path5150 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 63.27px;
+  height: 68.76px;
+  left: -2.00px;
+  top: 96.94px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path6121 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 53.55px;
+  height: 87.44px;
+  left: 8.19px;
+  top: 137.99px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path6152 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 57.71px;
+  height: 49.60px;
+  left: 40.14px;
+  top: 143.91px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path6154 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 22.52px;
+  height: 24.06px;
+  left: 54.03px;
+  top: 199.54px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path6156 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 21.60px;
+  height: 14.95px;
+  left: 69.77px;
+  top: 194.07px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path6158 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 14.19px;
+  height: 18.59px;
+  left: 77.19px;
+  top: 206.83px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path6160 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 24.38px;
+  height: 55.98px;
+  left: 52.18px;
+  top: 225.99px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path7138 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 44.60px;
+  height: 70.42px;
+  left: 81.79px;
+  top: 127.21px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path2436 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 11.20px;
+  height: 11.10px;
+  left: 87.68px;
+  top: 192.33px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path2438 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 30.19px;
+  height: 45.27px;
+  left: 91.61px;
+  top: 205.23px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path2440 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 98.30px;
+  height: 150.38px;
+  left: 104.06px;
+  top: 163.96px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path4391 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 60.50px;
+  height: 138.05px;
+  left: 136.45px;
+  top: 68.23px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path7308 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 77.16px;
+  height: 149.90px;
+  left: 179.98px;
+  top: 246.96px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .path8281 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 88.28px;
+  height: 251.13px;
+  left: 164.24px;
+  top: 66.40px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .cox {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 63.91px;
+  height: 167.19px;
+  left: 149.57px;
+  top: 302.76px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .cox .path5362 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 15.11px;
+  height: 30.44px;
+  left: -2.00px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .cox .path5364 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 61.42px;
+  height: 158.11px;
+  left: 4.48px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .cox .path3682 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 1.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 13.11px;
+  height: 28.44px;
+  left: 16.18px;
+  top: 24.90px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .chittagong .cox .path1881 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(103, 146, 61, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 0.50px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 4.25px;
+  height: 7.92px;
+  left: 55.05px;
+  top: 159.76px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .sylhet070c6e7b {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.4000000059604645;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 185.69px;
+  height: 159.13px;
+  left: 353.78px;
+  top: 185.60px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .sylhet070c6e7b .path2228 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 102.17px;
+  height: 88.37px;
+  left: -2.00px;
+  top: -2.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .sylhet070c6e7b .path2230 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 101.24px;
+  height: 81.98px;
+  left: 86.44px;
+  top: 0.28px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .sylhet070c6e7b .path3203 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 73.46px;
+  height: 92.92px;
+  left: 25.32px;
+  top: 68.21px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .sylhet070c6e7b .path4174 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(1, 121, 111, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 76.70px;
+  height: 83.34px;
+  left: 81.35px;
+  top: 58.19px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .mymensingh {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.4000000059604645;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 197.27px;
+  height: 151.39px;
+  left: 196.34px;
+  top: 156.42px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .mymensingh .path8041 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 3.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 73.14px;
+  height: 118.63px;
+  left: -3.00px;
+  top: -3.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .mymensingh .path3201 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 3.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 57.40px;
+  height: 63.91px;
+  left: 26.64px;
+  top: 13.41px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .mymensingh .path4172 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 3.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 98.61px;
+  height: 126.84px;
+  left: 50.72px;
+  top: 27.54px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .mymensingh .path6116 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 117, 59, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 3.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 98.61px;
+  height: 87.17px;
+  left: 101.65px;
+  top: 28.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 0.4000000059604645;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 238.01px;
+  height: 253.38px;
+  left: 155.13px;
+  top: 238.94px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path4163 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 67.90px;
+  height: 45.04px;
+  left: -2.00px;
+  top: 115.19px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path5128 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 84.22px;
+  height: 65.26px;
+  left: 20.38px;
+  top: 141.76px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path6099 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 59.67px;
+  height: 69.12px;
+  left: 44.61px;
+  top: 186.26px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path3189 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 71.61px;
+  height: 54.62px;
+  left: 43.84px;
+  top: 97.41px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path4160 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 66.51px;
+  height: 73.31px;
+  left: 82.28px;
+  top: 94.67px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path5131 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 47.88px;
+  height: 59.46px;
+  left: 106.82px;
+  top: 178.84px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path6102 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 49.38px;
+  height: 66.47px;
+  left: 75.79px;
+  top: 171.27px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path2229 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 75.77px;
+  height: 63.74px;
+  left: 97.09px;
+  top: 56.83px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path2231 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 51.69px;
+  height: 65.11px;
+  left: 153.59px;
+  top: 67.76px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path3206 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 40.58px;
+  height: 52.34px;
+  left: 133.68px;
+  top: 106.98px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path2235 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 51.15px;
+  height: 40.76px;
+  left: 103.54px;
+  top: 144.02px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path3207 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 15.79px;
+  height: 13.03px;
+  left: 129.08px;
+  top: 176.26px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path2237 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 19.88px;
+  height: 18.51px;
+  left: 149.22px;
+  top: 152.08px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path7073 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 2.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 16.50px;
+  height: 16.31px;
+  left: 137.38px;
+  top: 218.70px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path5143 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(77, 175, 74, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 3.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 87.50px;
+  height: 80.79px;
+  left: 153.51px;
+  top: 19.35px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .dhakab12b6ef2 .path2215 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(74, 194, 98, 1);
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 3.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 80.55px;
+  height: 114.08px;
+  left: 45.62px;
+  top: -3.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .divisionalborders {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 320.64px;
+  height: 469.50px;
+  left: 81.38px;
+  top: 156.44px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .divisionalborders .rajshahiRangpurborder {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 8.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 93.56px;
+  height: 49.04px;
+  left: 29.86px;
+  top: 11.74px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .divisionalborders .dhakaChittagongborder {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 8.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 99.28px;
+  height: 184.65px;
+  left: 210.62px;
+  top: 145.55px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .divisionalborders .dhakaChittagongBarishalborder {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 8.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 144.45px;
+  height: 151.45px;
+  left: 141.32px;
+  top: 296.47px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .divisionalborders .khulnaDhakaBarishaborder {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 8.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 96.42px;
+  height: 286.67px;
+  left: 65.13px;
+  top: 190.84px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .divisionalborders .dhakaMymensignRajshahiborder {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 8.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 151.86px;
+  height: 224.21px;
+  left: -8.00px;
+  top: -8.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .divisionalborders .sylhetMymensignborder {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(255, 255, 255, 1);
+  stroke-width: 8.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 63.89px;
+  height: 169.56px;
+  left: 264.75px;
+  top: 25.31px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .nationalborder {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 561.54px;
+  height: 762.73px;
+  left: 0.69px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .nationalborder .path122511 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 0, 0, 0);
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 1.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 2.00px;
+  height: 2.00px;
+  left: 550.24px;
+  top: 594.75px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .nationalborder .path11192 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(2, 76, 67, 0.9921568627450981);
+  stroke-width: 3.13px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 567.79px;
+  height: 768.98px;
+  left: -3.13px;
+  top: -3.13px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .nationalborder .path2172 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 1.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 2.00px;
+  height: 2.00px;
+  left: 9.89px;
+  top: 86.12px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .nationalborder .path2170 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 1.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 2.00px;
+  height: 2.00px;
+  left: 121.02px;
+  top: 50.10px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .nationalborder .path2173 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 1.00px;
+  stroke-linecap: butt;
+  box-shadow: none;
+  width: 3.39px;
+  height: 4.74px;
+  left: 121.95px;
+  top: 44.17px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 442.66px;
+  height: 510.70px;
+  left: 92.92px;
+  top: 71.27px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infomymensingh {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 95.90px;
+  height: 88.02px;
+  left: 153.75px;
+  top: 129.06px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infomymensingh .mymensigncircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 11.10px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infomymensingh .mymensignh {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/mymensignh.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 95.90px;
+  height: 10.54px;
+  left: 0.00px;
+  top: 77.48px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infomymensingh .amount5b029228 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 23.60px;
+  top: 23.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infodhaka {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 72.66px;
+  height: 88.16px;
+  left: 129.06px;
+  top: 272.21px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infodhaka .dhakacircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infodhaka .dhaka {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/dhaka.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 49.42px;
+  height: 10.50px;
+  left: 11.09px;
+  top: 77.66px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infodhaka .amount11fef4c3 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 12.50px;
+  top: 23.32px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infosylhet {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 72.66px;
+  height: 86.33px;
+  left: 314.50px;
+  top: 132.31px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infosylhet .sylhetcircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infosylhet .sylhet {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/sylhet.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 52.12px;
+  height: 10.09px;
+  left: 9.87px;
+  top: 76.25px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infosylhet .amount9ee58caf {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 11.49px;
+  top: 23.47px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infochittagong {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 95.54px;
+  height: 88.19px;
+  left: 347.12px;
+  top: 395.84px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infochittagong .chittagongcircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 11.85px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infochittagong .chittagon {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/chittagon.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 95.54px;
+  height: 10.92px;
+  left: 0.00px;
+  top: 77.27px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infochittagong .amountde0eb364 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 23.34px;
+  top: 23.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infobarishal {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 72.66px;
+  height: 87.74px;
+  left: 151.83px;
+  top: 422.95px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infobarishal .barishalcircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infobarishal .barishal {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/barishal.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 59.92px;
+  height: 10.78px;
+  left: 6.16px;
+  top: 76.96px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infobarishal .amount4ae7a04c {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 11.49px;
+  top: 23.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infokhulna {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 72.66px;
+  height: 88.34px;
+  left: 29.28px;
+  top: 370.90px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infokhulna .khulnacircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infokhulna .khulna {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/khulna.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 56.88px;
+  height: 10.39px;
+  left: 7.62px;
+  top: 77.95px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .infokhulna .amountb348c96d {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 12.50px;
+  top: 23.54px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforajshahi {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 72.66px;
+  height: 87.20px;
+  left: 0.00px;
+  top: 144.24px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforajshahi .rajshahicircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforajshahi .rajshahi {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/rajshahi.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 72.06px;
+  height: 11.17px;
+  left: 0.00px;
+  top: 76.03px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforajshahi .amount1dbc32ea {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 12.50px;
+  top: 23.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforangpur {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 72.66px;
+  height: 85.36px;
+  left: 4.34px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforangpur .rangpurcircle {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(255, 255, 255, 1);
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  width: 72.66px;
+  height: 72.66px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforangpur .rangpur {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/rangpur.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 63.76px;
+  height: 9.61px;
+  left: 4.44px;
+  top: 75.75px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .inforangpur .amount {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 26.00px;
+  letter-spacing: 0.00px;
+  color: rgba(172, 172, 172, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 400;
+  font-style: normal;
+  font-family: montserrat_regular, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 48.00px;
+  height: 19.00px;
+  left: 12.50px;
+  top: 23.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 262.35px;
+  height: 30.90px;
+  left: 33.31px;
+  top: 245.25px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path70 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 21.61px;
+  height: 29.84px;
+  left: 0.00px;
+  top: 0.53px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path71 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 27.47px;
+  height: 30.12px;
+  left: 23.34px;
+  top: 0.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path72 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 24.60px;
+  height: 30.07px;
+  left: 54.62px;
+  top: 0.44px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path73 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 25.50px;
+  height: 30.85px;
+  left: 84.16px;
+  top: 0.01px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path74 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 16.40px;
+  height: 29.97px;
+  left: 115.82px;
+  top: 0.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path75 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 27.47px;
+  height: 30.12px;
+  left: 133.12px;
+  top: 0.39px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path76 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 24.79px;
+  height: 29.84px;
+  left: 164.40px;
+  top: 0.53px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path77 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 17.69px;
+  height: 29.84px;
+  left: 194.17px;
+  top: 0.53px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path78 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 19.48px;
+  height: 30.90px;
+  left: 214.94px;
+  top: 0.00px;
+}
+
+.covidBangladesh .body .bangladeshcomponent .districtName .bangladesh .path79 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  fill: rgba(0, 51, 51, 1);
+  box-shadow: none;
+  width: 23.29px;
+  height: 30.11px;
+  left: 239.06px;
+  top: 0.39px;
+}
+
+.covidBangladesh .footer {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: -281px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 562.00px;
+  height: 133.00px;
+  left: 50%;
+  top: 924.00px;
+}
+
+.covidBangladesh .footer .information {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 200.00px;
+  height: 98.00px;
+  left: 0.00px;
+  top: 18.00px;
+}
+
+.covidBangladesh .footer .information .hoverState6b9fa9d3 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 200.00px;
+  height: 98.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .footer .information .hoverState6b9fa9d3 .forInformationCall16263 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 63.00px;
+  letter-spacing: 0.00px;
+  color: rgba(109, 104, 104, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 17.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  -webkit-filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.1607843137254902));
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 200.00px;
+  height: 98.00px;
+  left: 0.00px;
+  top: -21.50px;
+}
+
+.covidBangladesh .footer .information .hoverState6b9fa9d3 .forInformationCall16263 .forInformationCall16263-0 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 100;
+  font-style: normal;
+  font-size: 17.00px;
+  font-family: unisanscaps_thin, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .information .hoverState6b9fa9d3 .forInformationCall16263 .forInformationCall16263-20 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 17.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .information .hoverState6b9fa9d3 .forInformationCall16263 .forInformationCall16263-22 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 74.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .information .hoverState6b9fa9d3 .forInformationCall16263 .forInformationCall16263-27 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 17.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .information .defaultStateb3c5470c {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .footer .information .defaultStateb3c5470c .forInformationCall16263ea986b4b {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: default;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 63.00px;
+  letter-spacing: 0.00px;
+  color: rgba(109, 104, 104, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 17.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: -21.50px;
+  right: 0.00px;
+  bottom: 21.50px;
+}
+
+.covidBangladesh .footer .information .defaultStateb3c5470c .forInformationCall16263ea986b4b .forInformationCall16263ea986b4b-0 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 100;
+  font-style: normal;
+  font-size: 17.00px;
+  font-family: unisanscaps_thin, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .information .defaultStateb3c5470c .forInformationCall16263ea986b4b .forInformationCall16263ea986b4b-20 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 17.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .information .defaultStateb3c5470c .forInformationCall16263ea986b4b .forInformationCall16263ea986b4b-22 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 74.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .information .defaultStateb3c5470c .forInformationCall16263ea986b4b .forInformationCall16263ea986b4b-27 {
+  color: rgba(109, 104, 104, 1);
+  font-weight: 600;
+  font-style: normal;
+  font-size: 17.00px;
+  font-family: unisans_heavy, Arial;
+  letter-spacing: 0;
+  text-decoration: none;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 121.00px;
+  height: 126.00px;
+  left: 254.00px;
+  top: 4.00px;
+  border: none;
+  outline: none;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .activeState {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .activeState .whologo {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/whologo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 121.00px;
+  height: 124.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .activeState .who {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 56.00px;
+  letter-spacing: 0.00px;
+  color: rgba(127, 187, 182, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 17.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 40.00px;
+  height: 20.00px;
+  left: 41.00px;
+  top: 88.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .hoverState033251cb {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .hoverState033251cb .whologo3f5314a0 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/whologo3f5314a0.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: auto;
+  height: 124.00px;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .hoverState033251cb .who1215bc35 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 56.00px;
+  letter-spacing: 0.00px;
+  color: rgba(235, 235, 235, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 17.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 40.00px;
+  height: 20.00px;
+  right: 40.00px;
+  bottom: 18.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .defaultStateaf79d5ea {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .defaultStateaf79d5ea .whologo973393f9 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/whologo973393f9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: auto;
+  height: 124.00px;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d .defaultStateaf79d5ea .who08d2926d {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 56.00px;
+  letter-spacing: 0.00px;
+  color: rgba(196, 189, 189, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 17.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 40.00px;
+  height: 20.00px;
+  right: 40.00px;
+  bottom: 18.00px;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d:hover>.hoverState033251cb {
+  display: inherit;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d:hover>.defaultStateaf79d5ea {
+  display: none;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d:hover>.activeState {
+  display: none;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d:active>.activeState {
+  display: inherit;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d:active>.hoverState033251cb {
+  display: none;
+}
+
+.covidBangladesh .footer .sourceLink3ea5cd3d:active>.defaultStateaf79d5ea {
+  display: none;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/sourceLink5f80cd76.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: 126.00px;
+  height: 133.00px;
+  left: 436.00px;
+  top: 0.00px;
+  border: none;
+  outline: none;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .activeStatef8aea2f1 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .activeStatef8aea2f1 .iedcrlogo {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/iedcrlogo.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: 126.00px;
+  height: 130.00px;
+  left: 0.00px;
+  top: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .activeStatef8aea2f1 .iedcr {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 53.00px;
+  letter-spacing: 0.00px;
+  color: rgba(127, 187, 182, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 43.00px;
+  height: 19.00px;
+  left: 42.00px;
+  top: 97.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .hoverState0baf7fbe {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  display: none;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .hoverState0baf7fbe .iedcrlogo88a84a16 {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/iedcrlogo88a84a16.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: auto;
+  height: 130.00px;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .hoverState0baf7fbe .iedcr9cbf6ed1 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 53.00px;
+  letter-spacing: 0.00px;
+  color: rgba(235, 235, 235, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 43.00px;
+  height: 19.00px;
+  left: 42.00px;
+  bottom: 17.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .defaultState02932ec7 {
+  display: block;
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  overflow-x: unset;
+  overflow-y: unset;
+  background-color: transparent;
+  width: auto;
+  height: auto;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+  bottom: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .defaultState02932ec7 .iedcrlogof33ff9da {
+  position: absolute;
+  box-sizing: border-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  background-image: url("assets/iedcrlogof33ff9da.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  border-bottom-color: rgba(0, 0, 0, 0);
+  border-bottom-style: solid;
+  border-bottom-width: 1.00px;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-left-style: solid;
+  border-left-width: 1.00px;
+  border-right-color: rgba(0, 0, 0, 0);
+  border-right-style: solid;
+  border-right-width: 1.00px;
+  border-top-color: rgba(0, 0, 0, 0);
+  border-top-style: solid;
+  border-top-width: 1.00px;
+  border-top-left-radius: 0.00px;
+  border-top-right-radius: 0.00px;
+  border-bottom-left-radius: 0.00px;
+  border-bottom-right-radius: 0.00px;
+  box-shadow: none;
+  width: auto;
+  height: 130.00px;
+  left: 0.00px;
+  top: 0.00px;
+  right: 0.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76 .defaultState02932ec7 .iedcr2556f970 {
+  position: absolute;
+  box-sizing: content-box;
+  -ms-transform: rotate(0.00deg);
+  -webkit-transform: rotate(0.00deg);
+  transform: rotate(0.00deg);
+  -ms-transform-origin: center;
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  opacity: 1;
+  cursor: pointer;
+  margin-top: 0.00px;
+  margin-right: 0.00px;
+  margin-bottom: 0.00px;
+  margin-left: 0.00px;
+  padding-top: 0.00px;
+  padding-right: 0.00px;
+  padding-bottom: 0.00px;
+  padding-left: 0.00px;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: center;
+  line-height: 53.00px;
+  letter-spacing: 0.00px;
+  color: rgba(196, 189, 189, 1);
+  -webkit-text-stroke: 1.00px rgba(0, 0, 0, 0);
+  font-size: 16.00px;
+  font-weight: 600;
+  font-style: normal;
+  font-family: unisans_heavy, Arial;
+  text-decoration: none;
+  box-shadow: none;
+  overflow-x: unset;
+  overflow-y: unset;
+  white-space: pre;
+  width: 43.00px;
+  height: 19.00px;
+  left: 42.00px;
+  bottom: 17.00px;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76:hover>.hoverState0baf7fbe {
+  display: inherit;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76:hover>.defaultState02932ec7 {
+  display: none;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76:hover>.activeStatef8aea2f1 {
+  display: none;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76:active>.activeStatef8aea2f1 {
+  display: inherit;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76:active>.hoverState0baf7fbe {
+  display: none;
+}
+
+.covidBangladesh .footer .sourceLink5f80cd76:active>.defaultState02932ec7 {
+  display: none;
+}

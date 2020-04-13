@@ -1,24 +1,36 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './style.css';
+import Covid from './component/header/Covid';
+import BangladeshMap from './component/bdmap/map/BangladeshMap';
+import FooterComponent from './component/footer/FooterComponent';
+import Information from './component/body/Information';
+import DistrictInfo from './component/body/DistrictInfo';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div>
+        <div className="covidBangladesh">
+          <div className="backgroundrect" />
+          {/* Header Component */}
+          <Covid></Covid>
+          <div className="body">
+
+            {/* Information Component */}
+            <Information></Information>
+
+            <div className="bangladeshcomponent">
+              {/* Bangladesh Map SVG */}
+              <BangladeshMap></BangladeshMap>
+
+              {/* District Component */}
+              <DistrictInfo></DistrictInfo>
+            </div>
+          </div>
+          <FooterComponent></FooterComponent>
+        </div>
+      </div>
+
     </div>
   );
 }
